@@ -1,0 +1,19 @@
+# Ignore the vault folder
+vault/
+
+# Ignore the config file
+~/.clipvault_config
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
